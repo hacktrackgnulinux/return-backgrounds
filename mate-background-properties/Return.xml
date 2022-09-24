@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>No Desktop Background</name>
+    <filename>(none)</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#940909</pcolor>
+    <scolor>#2E3436</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>HackTrack Return</name>
+    <filename>/usr/share/backgrounds/Return/backgrounds-desktop-hacktrack-return.png</filename>
+    <options>zoom</options>
+    <artist>Team HackTrack</artist>
+  </wallpaper>
+</wallpapers>
